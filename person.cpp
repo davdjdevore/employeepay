@@ -1,3 +1,5 @@
+// David Devore
+
 #include "person.h"
 
 Person::Person(){
